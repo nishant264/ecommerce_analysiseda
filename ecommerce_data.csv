@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Product,Category,Price,Quantity,City
+101,2025-01-10,Laptop,Electronics,1200.0,1,Jaipur
+102,2025-01-12,Mouse,Electronics,25.0,2,Delhi
+103,2025-02-15,Monitor,Electronics,300.0,1,Mumbai
+104,2025-03-20,CPU,Electronics,,1,Jaipur
+105,2025-03-22,Laptop,Electronics,1200.0,1,Delhi
+106,2025-04-05,Mouse,Electronics,25.0,5,Mumbai
+107,2025-05-12,Monitor,Electronics,300.0,2,Delhi
+108,2025-05-15,Keyboard,Electronics,75.0,1,Jaipur
+109,2025-01-10,Laptop,Electronics,1200.0,1,Jaipur
+110,2025-06-01,GPU,Electronics,600.0,1,Mumbai
